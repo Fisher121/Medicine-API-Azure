@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/40921490-7d4c-40c9-a979-a5dee853d8a8/resourceGroups/Med/providers/Microsoft.Web/sites/Medicine-API",
+    "appService.deploySubpath": "."
+}
