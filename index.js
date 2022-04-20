@@ -15,7 +15,7 @@ var app = express();
 
 app.get("/", (req, res, next) => {
 
-    res.json("test")
+    res.json("test1")
    
 });
 
