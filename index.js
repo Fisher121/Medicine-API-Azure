@@ -19,7 +19,7 @@ app.get("/", (req, res, next) => {
    
 });
 
-app.listen(8080, () => {
+app.listen(80, () => {
 
  console.log("Server running on port 800s221");
 
